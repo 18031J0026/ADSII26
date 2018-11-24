@@ -1,0 +1,17 @@
+1)Describe the differences between dynamic programming, divide and conquer and greedy methods. [Submit your analysis in text format] 
+greedy algortihm:
+1) This searches all the solutions and chooses the best one.
+2) there is no memorization.
+3) no sub problem division.
+4) problems are locally optimised.
+
+dynamic programing:
+1) problems are overally optimized
+2) here problems are divided into subproblems and solved
+3) finally they are combined to form a bigger solution.
+4) use of memorization is done.
+
+
+
+3)Analyse the complexity of LCS and submit in text format.
+ANS. the time complexity of the code is O(nXm).
